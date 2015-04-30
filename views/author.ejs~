@@ -1,0 +1,8 @@
+
+<div>
+	<p>Los autores de esta aplicación son David y Raquel</p>
+	<div>
+		<b>Foto</b><br>
+		<image src="foto.jpg" alt="foto" style="width:150px">
+	</div>
+</div>
